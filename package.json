@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project_01_Taste_Masters_Team/",
+    "build": "vite build --base=/js_88_Valeriia-Trytiak/",
     "preview": "vite preview"
   },
   "devDependencies": {
